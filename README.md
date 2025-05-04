@@ -18,3 +18,16 @@ The Airbnb Clone Project is a backend system designed to simulate the functional
 - **Async Tasks**: Celery
 - **Containerization**: Docker
 - **CI/CD**: GitHub Actions
+
+
+## 👥 Team Roles
+### Backend Developer
+Designs and implements the backend logic, APIs, and integrations. Ensures secure, scalable, and maintainable backend services.
+### Database Administrator (DBA)
+Designs, optimizes, and maintains the project’s relational database schema. Responsible for performance tuning and data integrity.
+### DevOps Engineer
+Sets up and manages CI/CD pipelines, containerization, and cloud deployments. Ensures system reliability and scalability.
+### QA Engineer
+Tests backend functionalities, identifies bugs, and ensures quality through automated and manual testing strategies.
+### Technical Writer (Optional)
+Documents APIs, system architecture, workflows, and user guides. Ensures clarity and accessibility of technical documentation.
